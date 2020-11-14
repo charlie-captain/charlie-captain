@@ -6,6 +6,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 06 November, 2020 - 13 November, 2020
+
+Kotlin   1 hr            ██████████████████████▒░░   89.99 % 
+Dart     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+XML      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 <!--END_SECTION:waka-->
