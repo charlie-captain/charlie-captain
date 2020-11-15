@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2020 - 13 November, 2020
+Week: 07 November, 2020 - 14 November, 2020
 
 Kotlin   1 hr            ██████████████████████▒░░   89.99 % 
 Dart     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
