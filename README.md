@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2020 - 06 December, 2020
+Week: 30 November, 2020 - 07 December, 2020
 
-Kotlin            28 hrs 21 mins  ██████████████████████▒░░   89.58 % 
-Java              1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Text              32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-XML               30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Protocol Buffer   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Kotlin   35 hrs 17 mins  █████████████████████▓░░░   86.47 % 
+Java     2 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Prolog   1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Text     44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+XML      30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 <!--END_SECTION:waka-->
