@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2020 - 11 December, 2020
+Week: 05 December, 2020 - 12 December, 2020
 
 Kotlin            26 hrs 53 mins  █████████████████████▒░░░   85.36 % 
 Prolog            1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
