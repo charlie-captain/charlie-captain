@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2020 - 22 December, 2020
+Week: 16 December, 2020 - 23 December, 2020
 
-Kotlin            35 hrs 11 mins  ███████████████████████▓░   94.25 % 
-Java              57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Protocol Buffer   43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-XML               14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Text              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Kotlin            36 hrs 21 mins  ███████████████████████▓░   94.41 % 
+Protocol Buffer   49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Java              45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+XML               14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Text              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
