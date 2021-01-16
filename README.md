@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2021 - 14 January, 2021
+Week: 08 January, 2021 - 15 January, 2021
 
-Kotlin            29 hrs 47 mins  ████████████████████░░░░░   80.59 % 
-Java              5 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-XML               1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Protocol Buffer   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Other             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Kotlin            25 hrs 53 mins  ███████████████████▓░░░░░   79.23 % 
+Java              4 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+XML               1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Other             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Protocol Buffer   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
