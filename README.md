@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2021 - 08 February, 2021
+Week: 02 February, 2021 - 09 February, 2021
 
-Kotlin   29 hrs 33 mins  ███████████████████▓░░░░░   79.28 % 
-Other    2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Java     1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Groovy   1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-XML      31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Kotlin   22 hrs 33 mins  ███████████████████▒░░░░░   77.06 % 
+Other    2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Java     1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Groovy   1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+XML      25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 <!--END_SECTION:waka-->
