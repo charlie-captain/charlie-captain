@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
 Kotlin   22 hrs 33 mins  ███████████████████▒░░░░░   77.06 % 
 Other    2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
