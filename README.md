@@ -4,12 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2021 - 13 February, 2021
-
-Kotlin       4 hrs 59 mins   ███████████████▓░░░░░░░░░   62.53 % 
-Groovy       1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-Java         54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Properties   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
