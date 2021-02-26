@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 February, 2021 - 24 February, 2021
+Week: 18 February, 2021 - 25 February, 2021
 
-Kotlin       24 hrs          █████████████████████░░░░   84.04 % 
-Groovy       1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-XML          1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Java         1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Properties   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Kotlin            30 hrs 24 mins  █████████████████████▒░░░   85.15 % 
+XML               1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Groovy            1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Java              1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Protocol Buffer   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 <!--END_SECTION:waka-->
