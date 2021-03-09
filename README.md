@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 February, 2021 - 07 March, 2021
+Week: 01 March, 2021 - 08 March, 2021
 
-Kotlin            35 hrs 58 mins  █████████████████████▓░░░   87.06 % 
-Java              2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-XML               1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Protocol Buffer   1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Text              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Kotlin            33 hrs 36 mins  ██████████████████████░░░   87.48 % 
+Java              2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+XML               1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Protocol Buffer   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Text              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 <!--END_SECTION:waka-->
