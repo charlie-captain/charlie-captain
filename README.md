@@ -4,12 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 March, 2021 - 14 March, 2021
-
-Kotlin       4 hrs 55 mins   ███████████████████████▒░   93.56 % 
-Groovy       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
