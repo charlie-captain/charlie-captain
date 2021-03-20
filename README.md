@@ -4,6 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 March, 2021 - 19 March, 2021
+
+Kotlin            5 hrs 42 mins   ██████████████████████▓░░   91.02 % 
+Java              25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Protocol Buffer   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Text              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+XML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
