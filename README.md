@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 April, 2021 - 29 April, 2021
+Week: 23 April, 2021 - 30 April, 2021
 
-Kotlin            27 hrs 49 mins  █████████████▒░░░░░░░░░░░   53.57 % 
-Other             20 hrs 5 mins   █████████▓░░░░░░░░░░░░░░░   38.70 % 
-Java              2 hrs 56 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-XML               41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Protocol Buffer   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other             25 hrs 11 mins  ████████████▒░░░░░░░░░░░░   49.56 % 
+Kotlin            22 hrs 48 mins  ███████████▒░░░░░░░░░░░░░   44.90 % 
+Java              1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+XML               33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Protocol Buffer   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 <!--END_SECTION:waka-->
