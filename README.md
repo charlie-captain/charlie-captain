@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 April, 2021 - 30 April, 2021
+Week: 24 April, 2021 - 01 May, 2021
 
 Other             25 hrs 11 mins  ████████████▒░░░░░░░░░░░░   49.56 % 
 Kotlin            22 hrs 48 mins  ███████████▒░░░░░░░░░░░░░   44.90 % 
