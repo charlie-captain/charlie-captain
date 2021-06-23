@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 June, 2021 - 21 June, 2021
+Week: 15 June, 2021 - 22 June, 2021
 
-Kotlin            30 hrs 29 mins  ████████████████████▓░░░░   83.22 % 
-Java              4 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-XML               57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Protocol Buffer   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Kotlin            31 hrs 15 mins  █████████████████████▒░░░   85.31 % 
+Java              3 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+XML               1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Protocol Buffer   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 Text              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
