@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 July, 2021 - 26 July, 2021
+Week: 21 July, 2021 - 27 July, 2021
 
-Kotlin            28 hrs 15 mins  ███████████████████▓░░░░░   79.04 % 
-Java              5 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-XML               1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Protocol Buffer   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Properties        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Kotlin            28 hrs 13 mins  ███████████████████▓░░░░░   79.01 % 
+Java              5 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+XML               48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Protocol Buffer   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Properties        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 <!--END_SECTION:waka-->
