@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 August, 2021 - 15 August, 2021
+Week: 10 August, 2021 - 16 August, 2021
 
-Kotlin            29 hrs 33 mins  █████████████████████▒░░░   85.97 % 
-Java              2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-XML               1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Protocol Buffer   45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Other             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Kotlin            27 hrs 48 mins  █████████████████████░░░░   83.87 % 
+Java              2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+XML               2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Protocol Buffer   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Text              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 <!--END_SECTION:waka-->
