@@ -4,11 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 October, 2021 - 12 October, 2021
+Week: 07 October, 2021 - 13 October, 2021
 
-Kotlin            12 hrs 57 mins  █████████████████████▓░░░   86.13 % 
-XML               1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Protocol Buffer   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Java              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Kotlin            20 hrs 8 mins   █████████████████████▓░░░   87.01 % 
+XML               2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Java              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Protocol Buffer   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Prolog            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 <!--END_SECTION:waka-->
