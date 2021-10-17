@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2021 - 15 October, 2021
+Week: 10 October, 2021 - 16 October, 2021
 
 Kotlin            31 hrs 23 mins  █████████████████████▒░░░   85.29 % 
 XML               2 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
