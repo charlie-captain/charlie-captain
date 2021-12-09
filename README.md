@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 07 December, 2021
+Week: 02 December, 2021 - 08 December, 2021
 
-Kotlin       28 hrs 36 mins  █████████████████████▓░░░   86.29 % 
-Java         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-XML          1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Groovy       51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Properties   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Kotlin       26 hrs 53 mins  █████████████████████▒░░░   85.02 % 
+Java         1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+XML          59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Groovy       51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Properties   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
