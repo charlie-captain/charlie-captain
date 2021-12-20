@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2021 - 18 December, 2021
+Week: 13 December, 2021 - 19 December, 2021
 
 Kotlin            32 hrs 14 mins  ██████████████████████▒░░   89.27 % 
 Java              1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
