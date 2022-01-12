@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2022 - 10 January, 2022
+Week: 05 January, 2022 - 11 January, 2022
 
-Kotlin            28 hrs 54 mins  █████████████████████▓░░░   86.70 % 
-XML               2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Java              1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-protobuf          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Protocol Buffer   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Kotlin            27 hrs 11 mins  █████████████████████▒░░░   85.84 % 
+XML               3 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Java              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+protobuf          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Protocol Buffer   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 <!--END_SECTION:waka-->
