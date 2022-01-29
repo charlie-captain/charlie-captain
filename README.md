@@ -4,8 +4,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
-
-Kotlin   17 mins         █████████████████████████   99.95 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
