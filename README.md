@@ -4,6 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 15 February, 2022 - To: 22 February, 2022
+
+Kotlin     3 hrs 7 mins    ████████████████████████▓   98.89 % 
+XML        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
