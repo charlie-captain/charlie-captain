@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2022 - To: 29 March 2022
+From: 23 March 2022 - To: 30 March 2022
 
-Java     2 hrs 57 mins   █████████████▒░░░░░░░░░░░   53.85 %
-Kotlin   2 hrs 14 mins   ██████████▒░░░░░░░░░░░░░░   40.78 %
-Groovy   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Java     3 hrs 27 mins   ████████████▒░░░░░░░░░░░░   49.39 %
+Kotlin   3 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.39 %
+Groovy   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
