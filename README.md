@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2022 - To: 14 April 2022
+From: 08 April 2022 - To: 15 April 2022
 
-Kotlin   1 hr 36 mins    ███████████████████████░░   91.34 %
-Java     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Kotlin   1 hr 36 mins    █████████████████████░░░░   84.20 %
+Java     18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
 ```
 
 <!--END_SECTION:waka-->
