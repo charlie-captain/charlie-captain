@@ -5,12 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2022 - To: 13 May 2022
+From: 07 May 2022 - To: 14 May 2022
 
-Dart             8 hrs 50 mins   ████████████████████████▒   97.60 %
-YAML             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Dart   3 hrs 56 mins   ████████████████████████▓   98.75 %
+YAML   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
