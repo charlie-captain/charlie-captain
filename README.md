@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 May 2022 - To: 20 May 2022
+From: 14 May 2022 - To: 21 May 2022
 
 Dart              30 hrs 15 mins  ██████████████████████▒░░   89.68 %
 Go                2 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
