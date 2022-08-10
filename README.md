@@ -5,13 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 July 2022 - To: 05 August 2022
+From: 02 August 2022 - To: 09 August 2022
 
-Go               4 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   28.23 %
-Kotlin           3 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-Java             3 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-Markdown         2 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-Other            21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Go                14 hrs 39 mins  ████████████████░░░░░░░░░   64.59 %
+Kotlin            3 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+Java              2 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Markdown          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+protobuf          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Protocol Buffer   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
