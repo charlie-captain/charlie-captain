@@ -5,11 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 September 2022 - To: 08 September 2022
-
-Go     22 mins         ████████████████████████▓   98.56 %
-Text   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
