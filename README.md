@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 September 2022 - To: 24 September 2022
+From: 18 September 2022 - To: 25 September 2022
 
-Go               5 hrs 36 mins   ████████████████████▒░░░░   81.15 %
-Shell Script     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Dart             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Bash             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Markdown         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Docker           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Go               5 hrs 42 mins   ████████████████████░░░░░   79.76 %
+Shell Script     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Dart             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Markdown         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Bash             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Docker           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
