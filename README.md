@@ -5,11 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 October 2022 - To: 17 October 2022
+From: 11 October 2022 - To: 18 October 2022
 
-Go         1 hr 4 mins     ████████████████████████▒   97.63 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go         1 hr 4 mins     ████████████████████████▓   99.33 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
