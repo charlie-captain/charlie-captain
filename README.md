@@ -5,7 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 October 2022 - To: 22 October 2022
+
+JSON       2 mins          ███████████████████░░░░░░   75.34 %
+Other      0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
 ```
 
 <!--END_SECTION:waka-->
