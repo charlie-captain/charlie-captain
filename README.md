@@ -5,10 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 October 2022 - To: 07 November 2022
+From: 01 November 2022 - To: 08 November 2022
 
-Bash      36 mins         ████████████████████████░   95.87 %
-Other     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Bash       16 mins         █████████████░░░░░░░░░░░░   52.37 %
+Markdown   10 mins         ████████▒░░░░░░░░░░░░░░░░   33.08 %
+Other      2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
 ```
 
 <!--END_SECTION:waka-->
