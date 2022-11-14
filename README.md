@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 06 November 2022 - To: 13 November 2022
 
 Go             1 hr 2 mins     ████████████████████░░░░░   79.39 %
 Markdown       11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
