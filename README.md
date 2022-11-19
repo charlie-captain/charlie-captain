@@ -5,11 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
-Go     7 mins          ████████████████████████▓   98.73 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+XML   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
