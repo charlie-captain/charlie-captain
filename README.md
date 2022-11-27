@@ -5,12 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 November 2022 - To: 25 November 2022
+From: 19 November 2022 - To: 26 November 2022
 
-Go         3 hrs 29 mins   ████████████████████████▓   98.93 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-go.mod     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Go               3 hrs 34 mins   ████████████████████████░   96.40 %
+Shell Script     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Text             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Markdown         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
