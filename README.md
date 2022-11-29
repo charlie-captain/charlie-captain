@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 November 2022 - To: 27 November 2022
+From: 21 November 2022 - To: 28 November 2022
 
-Go               1 hr 47 mins    ████████████████▓░░░░░░░░   66.87 %
-SQL              44 mins         ███████░░░░░░░░░░░░░░░░░░   27.78 %
-Text             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Shell Script     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go               4 hrs 10 mins   ████████████████████░░░░░   80.64 %
+SQL              49 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Shell Script     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Bash             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
