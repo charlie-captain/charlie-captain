@@ -5,10 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
-Go      5 mins          ███████████████▒░░░░░░░░░   61.75 %
-Other   3 mins          █████████▓░░░░░░░░░░░░░░░   38.25 %
+Other   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
