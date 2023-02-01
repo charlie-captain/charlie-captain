@@ -5,9 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 30 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-Go     29 mins         █████████████████████████   99.99 %
+Go     30 mins         ██████████████████░░░░░░░   72.58 %
+SQL    11 mins         ███████░░░░░░░░░░░░░░░░░░   27.41 %
 Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
