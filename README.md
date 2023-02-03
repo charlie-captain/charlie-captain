@@ -5,13 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 01 February 2023
+From: 26 January 2023 - To: 02 February 2023
 
-Go               54 mins         ████████████████████░░░░░   80.56 %
-SQL              11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript       2 hrs 26 mins   ████████████▒░░░░░░░░░░░░   49.02 %
+Go               1 hr 49 mins    █████████░░░░░░░░░░░░░░░░   36.63 %
+SQL              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Bash             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Shell Script     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
