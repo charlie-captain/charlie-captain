@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 January 2023 - To: 02 February 2023
+From: 27 January 2023 - To: 03 February 2023
 
-JavaScript       2 hrs 26 mins   ████████████▒░░░░░░░░░░░░   49.02 %
-Go               1 hr 49 mins    █████████░░░░░░░░░░░░░░░░   36.63 %
-SQL              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Bash             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Shell Script     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JavaScript       5 hrs 5 mins    ████████████░░░░░░░░░░░░░   48.24 %
+Go               3 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
+CSS              45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+SQL              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+TypeScript       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Bash             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
