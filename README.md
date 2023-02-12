@@ -5,11 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
-Go             47 mins         █████████████▒░░░░░░░░░░░   53.33 %
-Bash           21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Other          10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Go    40 mins         ███████████████████████▓░   95.13 %
+SQL   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
