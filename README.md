@@ -5,10 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 February 2023 - To: 11 February 2023
+From: 05 February 2023 - To: 12 February 2023
 
-Go    40 mins         ███████████████████████▓░   95.13 %
-SQL   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+JavaScript      1 hr 48 mins    ███████████████████░░░░░░   76.05 %
+Go              25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
+TypeScript      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+CSS             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+JSON            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+AUTO_DETECTED   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
