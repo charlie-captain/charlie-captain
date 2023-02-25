@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 February 2023 - To: 23 February 2023
+From: 17 February 2023 - To: 24 February 2023
 
 Go           20 mins         ███████████▒░░░░░░░░░░░░░   45.04 %
 SQL          14 mins         ████████▒░░░░░░░░░░░░░░░░   33.60 %
