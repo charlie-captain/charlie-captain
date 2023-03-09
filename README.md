@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 07 March 2023
+From: 01 March 2023 - To: 08 March 2023
 
 JavaScript     5 hrs 59 mins   █████████████▒░░░░░░░░░░░   53.18 %
 Go             3 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.90 %
