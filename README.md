@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2023 - To: 15 March 2023
+From: 09 March 2023 - To: 16 March 2023
 
-JavaScript            6 hrs 46 mins   █████████████▓░░░░░░░░░░░   54.66 %
-Go                    2 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
-CSS                   2 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 %
-TypeScript            17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-HTTP Request          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-JSON                  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JavaScript            5 hrs 55 mins   █████████████░░░░░░░░░░░░   51.41 %
+Go                    2 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.75 %
+CSS                   2 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
+TypeScript            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+HTTP Request          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JSON                  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
