@@ -5,13 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2023 - To: 18 April 2023
+From: 12 April 2023 - To: 19 April 2023
 
-Python           0 secs          ████████████████████▓░░░░   82.27 %
-GitIgnore file   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Markdown         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Text             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Shell Script     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Python             35 mins         ██████████████████████▒░░   89.80 %
+Shell Script       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+requirements.txt   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Bash               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+GitIgnore file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
