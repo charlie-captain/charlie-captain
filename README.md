@@ -5,12 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2023 - To: 22 April 2023
+From: 16 April 2023 - To: 23 April 2023
 
-Python             35 mins         ██████████████████████▒░░   89.82 %
-Shell Script       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-requirements.txt   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Bash               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Python             35 mins         ████████████▒░░░░░░░░░░░░   48.82 %
+YAML               19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+Go                 9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+SQL                4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Shell Script       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+requirements.txt   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
