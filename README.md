@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2023 - To: 10 May 2023
+From: 04 May 2023 - To: 11 May 2023
 
-Markdown           1 hr 30 mins    ██████████░░░░░░░░░░░░░░░   39.60 %
-Python             1 hr 27 mins    █████████▓░░░░░░░░░░░░░░░   38.24 %
-YAML               19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-JSON               17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Shell Script       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Markdown           1 hr 30 mins    ██████████████▒░░░░░░░░░░   57.08 %
+Python             36 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
+YAML               19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+Shell Script       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
