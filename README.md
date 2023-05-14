@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2023 - To: 12 May 2023
+From: 06 May 2023 - To: 13 May 2023
 
-Markdown            1 hr 41 mins    █████████████████▓░░░░░░░   71.32 %
-YAML                19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Docker              11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Python              9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-DockerIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown            1 hr 27 mins    █████████████████████▒░░░   84.78 %
+Docker              11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Python              3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+DockerIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Bash                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
