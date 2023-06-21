@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2023 - To: 19 June 2023
+From: 13 June 2023 - To: 20 June 2023
 
-Go                 39 mins         ███████████████▓░░░░░░░░░   62.61 %
-Python             17 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
-Markdown           5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-GitIgnore file     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-go.mod             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Go   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
