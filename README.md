@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2023 - To: 26 June 2023
+From: 20 June 2023 - To: 27 June 2023
 
-No activity tracked
+Markdown   1 hr 56 mins    █████████████████████▓░░░   86.22 %
+Text       11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Bash       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
