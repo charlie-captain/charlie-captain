@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2023 - To: 03 August 2023
+From: 28 July 2023 - To: 04 August 2023
 
-Markdown         10 hrs 54 mins  ████████████████▓░░░░░░░░   67.11 %
-XML              2 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-Go               1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Text             1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Shell Script     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Markdown         9 hrs 15 mins   ████████████████▓░░░░░░░░   66.45 %
+Go               1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+Text             1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+XML              1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+Shell Script     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
