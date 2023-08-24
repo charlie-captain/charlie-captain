@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2023 - To: 22 August 2023
+From: 16 August 2023 - To: 23 August 2023
 
-Go               2 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.19 %
-Markdown         2 hrs           ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-JavaScript       1 hr 47 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
-Bash             19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Git Config       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Go               5 hrs 58 mins   ███████████▓░░░░░░░░░░░░░   46.72 %
+Markdown         3 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.89 %
+JavaScript       1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+JSON             30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Text             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
