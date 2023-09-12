@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2023 - To: 10 September 2023
+From: 04 September 2023 - To: 11 September 2023
 
-SQL              12 hrs 21 mins  ████████████░░░░░░░░░░░░░   48.63 %
-Go               6 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   24.19 %
-Text             2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Markdown         1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Java             40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+SQL              11 hrs 49 mins  ███████████▓░░░░░░░░░░░░░   46.71 %
+Go               5 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
+Text             4 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+Markdown         2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Other            37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
