@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 10 October 2023
+From: 04 October 2023 - To: 11 October 2023
 
-Text             4 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.81 %
-Go               3 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   23.78 %
-Markdown         3 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
-Other            1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-INI              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Text             5 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   31.54 %
+Markdown         5 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   31.52 %
+Go               2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+Other            1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+INI              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
