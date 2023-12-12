@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
-Other        3 hrs 58 mins   ██████████▒░░░░░░░░░░░░░░   41.27 %
-Markdown     3 hrs           ███████▓░░░░░░░░░░░░░░░░░   31.26 %
-SQL          54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Text         49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-JavaScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Other        4 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   39.84 %
+Markdown     3 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+SQL          54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Text         49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+JavaScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
 ```
 
 <!--END_SECTION:waka-->
