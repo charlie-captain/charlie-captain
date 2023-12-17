@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2023 - To: 15 December 2023
+From: 09 December 2023 - To: 16 December 2023
 
 Markdown     3 hrs 57 mins   ███████████▓░░░░░░░░░░░░░   46.63 %
 Text         1 hr 55 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
