@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2023 - To: 17 December 2023
+From: 11 December 2023 - To: 18 December 2023
 
-Markdown   3 hrs 56 mins   ████████████▒░░░░░░░░░░░░   49.39 %
-Text       1 hr 55 mins    ██████░░░░░░░░░░░░░░░░░░░   24.22 %
-Other      1 hr 48 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
-Docker     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Go         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Markdown   3 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   46.15 %
+Other      2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+Text       1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
+Docker     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Go         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
