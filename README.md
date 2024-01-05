@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 28 December 2023 - To: 04 January 2024
 
-Java              4 hrs 26 mins   ████████████▓░░░░░░░░░░░░   51.12 %
-JSON              1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Other             1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Markdown          52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-XML               24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Java              5 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   47.02 %
+Other             2 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
+JSON              1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Markdown          1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+XML               24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
