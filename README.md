@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 11 January 2024
+From: 05 January 2024 - To: 12 January 2024
 
-Other        5 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   28.29 %
-Go           4 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
-Markdown     3 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-Java         1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Text         1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Other        5 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   28.58 %
+Go           4 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+Markdown     4 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
+Java         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Text         1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
 ```
 
 <!--END_SECTION:waka-->
