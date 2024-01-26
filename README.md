@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2024 - To: 24 January 2024
+From: 18 January 2024 - To: 25 January 2024
 
-Markdown   2 hrs 41 mins   ███████████▓░░░░░░░░░░░░░   46.95 %
-Other      1 hr 32 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.79 %
-Text       1 hr 10 mins    █████░░░░░░░░░░░░░░░░░░░░   20.37 %
-Bash       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Other      3 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.87 %
+Markdown   2 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.55 %
+Text       1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Bash       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->
