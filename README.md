@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2024 - To: 27 January 2024
+From: 21 January 2024 - To: 28 January 2024
 
 Other        5 hrs 43 mins   ██████████████░░░░░░░░░░░   55.64 %
 Markdown     2 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.59 %
