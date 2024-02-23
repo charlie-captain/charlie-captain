@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Other      2 hrs 13 mins   ████████████████████▓░░░░   82.35 %
-Markdown   17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-Text       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Other      2 hrs 34 mins   █████████████▒░░░░░░░░░░░   52.92 %
+Markdown   1 hr 11 mins    ██████░░░░░░░░░░░░░░░░░░░   24.59 %
+Text       1 hr 5 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
 ```
 
 <!--END_SECTION:waka-->
