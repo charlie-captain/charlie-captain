@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
-Other        6 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.01 %
-VB.NET       4 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
-Markdown     3 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
-Text         1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-JavaScript   49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Other        5 hrs 45 mins   ██████████▓░░░░░░░░░░░░░░   42.07 %
+VB.NET       3 hrs 36 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+Markdown     2 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+Text         1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+C            17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
