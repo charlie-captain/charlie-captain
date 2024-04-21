@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2024 - To: 19 April 2024
+From: 13 April 2024 - To: 20 April 2024
 
 Text        4 hrs 28 mins   █████████▒░░░░░░░░░░░░░░░   36.78 %
 Other       3 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   31.46 %
