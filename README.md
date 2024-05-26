@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2024 - To: 24 May 2024
+From: 18 May 2024 - To: 25 May 2024
 
 SQL         13 hrs 14 mins  █████████████████████░░░░   84.63 %
 Markdown    1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
