@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
 SQL          11 hrs 31 mins  ████████████▒░░░░░░░░░░░░   49.79 %
 Other        7 hrs 29 mins   ████████░░░░░░░░░░░░░░░░░   32.37 %
