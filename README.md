@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2024 - To: 01 August 2024
+From: 26 July 2024 - To: 02 August 2024
 
-Other            8 hrs 50 mins   ██████████████▓░░░░░░░░░░   58.21 %
-Vue.js           2 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Markdown         1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-TypeScript       1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-SQL              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Other            8 hrs 50 mins   ███████████▓░░░░░░░░░░░░░   47.33 %
+SQL              3 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   19.49 %
+Vue.js           2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Markdown         2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+TypeScript       1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
 ```
 
 <!--END_SECTION:waka-->
