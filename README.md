@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2024 - To: 07 September 2024
+From: 01 September 2024 - To: 08 September 2024
 
-Other      14 hrs 52 mins  █████████████░░░░░░░░░░░░   52.09 %
-SQL        10 hrs 46 mins  █████████▒░░░░░░░░░░░░░░░   37.76 %
-Markdown   2 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Text       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other      18 hrs 16 mins  ████████████▒░░░░░░░░░░░░   49.74 %
+SQL        15 hrs 34 mins  ██████████▓░░░░░░░░░░░░░░   42.38 %
+Markdown   2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Text       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
