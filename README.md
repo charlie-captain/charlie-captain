@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2024 - To: 04 October 2024
+From: 28 September 2024 - To: 05 October 2024
 
-Other      56 mins         ████████████████▓░░░░░░░░   66.84 %
-Markdown   23 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-Text       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Other      30 mins         █████████████░░░░░░░░░░░░   51.77 %
+Markdown   23 mins         ██████████░░░░░░░░░░░░░░░   39.54 %
+Text       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
 ```
 
 <!--END_SECTION:waka-->
