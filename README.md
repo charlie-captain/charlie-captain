@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2024 - To: 15 October 2024
+From: 09 October 2024 - To: 16 October 2024
 
-Other        4 hrs 48 mins   ██████████████░░░░░░░░░░░   55.40 %
-Markdown     2 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   27.88 %
-Vue.js       37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-SQL          32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-TypeScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Other        6 hrs 8 mins    ██████████████▓░░░░░░░░░░   58.21 %
+Markdown     2 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+SQL          1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Vue.js       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Batchfile    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
