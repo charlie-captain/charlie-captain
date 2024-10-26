@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 24 October 2024
+From: 18 October 2024 - To: 25 October 2024
 
-Other        5 hrs 34 mins   ██████████▓░░░░░░░░░░░░░░   43.29 %
-Markdown     2 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
-Vue.js       1 hr 51 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
-SQL          1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Lua          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Other        6 hrs 20 mins   ███████████▒░░░░░░░░░░░░░   45.38 %
+Markdown     2 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Vue.js       1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+SQL          1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Text         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
