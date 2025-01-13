@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
 Markdown   5 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   40.92 %
 Other      4 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   32.12 %
