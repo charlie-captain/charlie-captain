@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-Other        1 hr 26 mins    █████████▒░░░░░░░░░░░░░░░   36.83 %
-Markdown     1 hr 19 mins    ████████▓░░░░░░░░░░░░░░░░   34.24 %
-SQL          37 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-Text         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+SQL          3 hrs 28 mins   ████████████▓░░░░░░░░░░░░   50.49 %
+Other        1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Markdown     1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+Text         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
