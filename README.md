@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2025 - To: 24 April 2025
+From: 18 April 2025 - To: 25 April 2025
 
-Other       3 hrs 20 mins   ███████████░░░░░░░░░░░░░░   44.57 %
-PureBasic   2 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.45 %
-Markdown    1 hr 51 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
-Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+PureBasic   2 hrs 54 mins   ████████▒░░░░░░░░░░░░░░░░   33.57 %
+Other       2 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   33.43 %
+Markdown    2 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   32.87 %
+Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 XML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
