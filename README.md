@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 25 April 2025
+From: 19 April 2025 - To: 26 April 2025
 
 PureBasic   2 hrs 54 mins   ████████▒░░░░░░░░░░░░░░░░   33.57 %
 Other       2 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   33.43 %
