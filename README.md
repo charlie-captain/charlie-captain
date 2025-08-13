@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2025 - To: 11 August 2025
+From: 05 August 2025 - To: 12 August 2025
 
-Markdown    11 hrs 59 mins  ██████████████▒░░░░░░░░░░   57.01 %
-Python      4 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   19.76 %
-HTML        2 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-Other       1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-YAML        45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Markdown    13 hrs 50 mins  ████████████████░░░░░░░░░   64.27 %
+Python      4 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Other       1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+YAML        1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+HTML        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
