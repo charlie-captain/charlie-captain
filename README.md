@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2025 - To: 24 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-Markdown     12 hrs 31 mins  ██████████████▓░░░░░░░░░░   58.88 %
-Other        2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-SQL          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Python       1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Bash         1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Markdown     13 hrs 9 mins   ████████████████▒░░░░░░░░   65.05 %
+Other        2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Python       1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Bash         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+SQL          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 ```
 
 <!--END_SECTION:waka-->
