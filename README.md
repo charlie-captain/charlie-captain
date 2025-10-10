@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-Python   20 mins         █████████████████████████   100.00 %
+Markdown   2 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   47.14 %
+Python     1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+HTML       46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Other      26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+Docker     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 ```
 
 <!--END_SECTION:waka-->
