@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2025 - To: 09 October 2025
+From: 03 October 2025 - To: 10 October 2025
 
 Markdown   2 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   47.14 %
 Python     1 hr 7 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
