@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2025 - To: 09 November 2025
+From: 03 November 2025 - To: 10 November 2025
 
-No activity tracked
+Python                     11 hrs 57 mins  ██████████░░░░░░░░░░░░░░░   40.64 %
+Markdown                   7 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
+Other                      2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+JavaScript                 2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Bash                       1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
