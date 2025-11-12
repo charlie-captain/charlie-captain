@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
-Python                     11 hrs 57 mins  ██████████░░░░░░░░░░░░░░░   40.64 %
-Markdown                   7 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
-Other                      2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-JavaScript                 2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Bash                       1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Python                     7 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   35.78 %
+Markdown                   6 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   28.31 %
+Other                      1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+JavaScript                 1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Caddyfile                  1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
 ```
 
 <!--END_SECTION:waka-->
