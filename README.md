@@ -5,10 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 08 February 2026
+From: 02 February 2026 - To: 09 February 2026
 
-JSON       2 mins          ████████████████▒░░░░░░░░   65.23 %
-Markdown   1 min           ████████▓░░░░░░░░░░░░░░░░   34.77 %
+JSON       1 hr 25 mins    ███████████████████████░░   91.63 %
+Markdown   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
