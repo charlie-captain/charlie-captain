@@ -5,12 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-Python       2 hrs 44 mins         ████████████████████████▒   97.13 %
-JSON         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Python       2 hrs 47 mins         ███████████████████████▓░   94.13 %
+JSON         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Docker       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
