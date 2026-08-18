@@ -5,10 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2026 - To: 16 August 2026
+From: 10 August 2026 - To: 17 August 2026
 
-JSON    0 secs                ████████████████▒░░░░░░░░   64.81 %
-Other   0 secs                ████████▓░░░░░░░░░░░░░░░░   35.19 %
+JSON       0 secs                ██████████░░░░░░░░░░░░░░░   39.47 %
+Markdown   0 secs                █████████▓░░░░░░░░░░░░░░░   39.10 %
+Other      0 secs                █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
 ```
 
 <!--END_SECTION:waka-->
